@@ -1,2 +1,2 @@
 # workoutlog
-this repository is the log of my workingout.
+this is repository for the log of my workingout.
